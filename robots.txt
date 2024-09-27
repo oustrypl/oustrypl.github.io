@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://oustrypl.github.io/sitemap.oustrypl.gz
+Sitemap: https://oustrypl.github.io/app/sitemap.oustrypl.gz
+Sitemap: https://oustrypl.github.io/assets/sitemap.oustrypl.gz
+Sitemap: https://oustrypl.github.io/css/sitemap.oustrypl.gz
+Sitemap: https://oustrypl.github.io/data/sitemap.oustrypl.gz
+Sitemap: https://oustrypl.github.io/includes/sitemap.oustrypl.gz
+Sitemap: https://oustrypl.github.io/item/sitemap.oustrypl.gz
+Sitemap: https://oustrypl.github.io/src/sitemap.oustrypl.gz
